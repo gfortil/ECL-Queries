@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+ <soap:Body>
+  <aa.personsfilesearchservice2.1.1Request xmlns="urn:hpccsystems:ecl:aa.personsfilesearchservice2.1.1">
+   <sex>M</sex>
+  </aa.personsfilesearchservice2.1.1Request>
+ </soap:Body>
+</soap:Envelope>

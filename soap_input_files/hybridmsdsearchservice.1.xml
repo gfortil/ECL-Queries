@@ -1,0 +1,5 @@
+<hybridmsdsearchservice.1.1Request xmlns="urn:hpccsystems:ecl:hybridmsdsearchservice.1.1">
+   <exclude_artist_search>1</exclude_artist_search>
+   <exclude_similar_artist_search>1</exclude_similar_artist_search>
+   <search>sweetest girl</search>
+  </hybridmsdsearchservice.1.1Request>

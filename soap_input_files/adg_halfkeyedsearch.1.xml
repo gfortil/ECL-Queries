@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+ <soap:Body>
+  <adg_halfkeyedsearch.1Request xmlns="urn:hpccsystems:ecl:adg_halfkeyedsearch.1">
+   <startswith>9</startswith>
+  </adg_halfkeyedsearch.1Request>
+ </soap:Body>
+</soap:Envelope>

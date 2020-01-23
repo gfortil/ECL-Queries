@@ -1,0 +1,5 @@
+<dcb_persons_join.1.1Request xmlns="urn:hpccsystems:ecl:dcb_persons_join.1.1">
+   <gender>M</gender>
+   <lastname>E</lastname>
+   <state>MA</state>
+  </dcb_persons_join.1.1Request>
